@@ -1,7 +1,7 @@
 <h1>Introductory Programming Using Python (Oct 2020)</h1>
 Course materials are contained in this repository
 <br>
-Scratch pad for the course
+Scratch pad for the course<br>
 https://www.codepile.net/pile/PythonDay1
 
 https://www.codepile.net/pile/PythonDay1-Help
