@@ -1,26 +1,28 @@
-Introductory Programming Using Python (Oct 2020)
+<h1>Introductory Programming Using Python (Oct 2020)</h1>
 Course materials are contained in this repository
+<br>
+Scratch pad for the course
+https://www.codepile.net/pile/PythonDay1
 
-Scratch pad for the course:
-Instructor led code dissemination:
-https://codeshare.io/Python-RP
+https://www.codepile.net/pile/PythonDay1-Help
 
-Help line, for instructor to help debug:
-https://codeshare.io/Python-Help
+https://www.codepile.net/pile/PythonDay2
 
-Python (download version specific to your OS)
+https://www.codepile.net/pile/PythonDay2-Help
+
+<h2>Python (download version specific to your OS)</h2>
 https://www.python.org/downloads/
 
-Wing IDE Personal (download version specific to your OS)
+<h2>Wing IDE Personal (download version specific to your OS)</h2>
 https://wingware.com/downloads/wing-personal
 
-PyCharm (Another Python IDE)
+<h2>PyCharm (Another Python IDE)</h2>
 https://www.jetbrains.com/pycharm/
 
-Some Free Online Python ebooks
+<h2>Some Free Online Python ebooks</h2>
 https://inventwithpython.com/
 
-Practice Questions on Python (Based on Python 2)
+<h2>Practice Questions on Python (Based on Python 2)</h2>
 http://www.beginpython.com/ (89 questions for beginners)
 
 http://www.pyschools.com/ (200+ questions for beginner to intermediate level coders)
