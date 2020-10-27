@@ -2,13 +2,7 @@
 Course materials are contained in this repository
 <br>
 Scratch pad for the course<br>
-https://www.codepile.net/pile/PythonDay1
-
-https://www.codepile.net/pile/PythonDay1-Help
-
-https://www.codepile.net/pile/PythonDay2
-
-https://www.codepile.net/pile/PythonDay2-Help
+https://www.codepile.net/pile/Python-RP-Oct
 
 <h2>Python (download version specific to your OS)</h2>
 https://www.python.org/downloads/
